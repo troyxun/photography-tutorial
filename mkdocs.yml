@@ -5,6 +5,8 @@ nav:
   - 如何参与: about.md
   - 认识镜头: lens.md
   - 认识相机: camera.md
+  - 了解曝光: exposure.md
+  - 了解色彩: color-science.md
   - 致谢: about.md
 theme: material
 repo_url: https://github.com/troyxun/photography-tutorial
