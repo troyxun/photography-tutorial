@@ -7,7 +7,9 @@ nav:
     - 认识相机: camera.md
     - 了解曝光: exposure.md
     - 了解色彩: color-science.md
-    - 削减抖动: stabilization.md
+    - 影像稳定: stabilization.md
+    - 视频编码: encoding.md
+    - 图像压缩与 RAW: raw.md
     - 致谢: about.md
 theme: material
 repo_url: https://github.com/troyxun/photography-tutorial
