@@ -2,7 +2,7 @@
 
 ## Sam Tong
 
-A male who is studying for a bachelor's degree from Fudan University, lives in Shanghai/Changchun, and loves shutter and coding.
+ILME-FX30 Owner. A male who is studying for a bachelor's degree from Fudan University, lives in Shanghai/Changchun, and loves shutter and coding.
 
 ## Troy Xun
 
