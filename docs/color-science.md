@@ -22,6 +22,15 @@
 色彩空间用以描述颜色在实际光学中的范围。
 理论上色彩空间应当搭配其对应的 Gamma 曲线使用，例如 Sgamut3.Cine 色彩空间搭配 SLog3 使用。
 
+### S-Gamut
+S-Gamut 是索尼定义的一个色彩空间。
+有三种S-Gamut：S-Gamut, S-Gamut3, 和S-Gamut.Cine。请参考下图的色彩空间显示：
+
+#### S-Gamut / S-Gamut3
+S-Gamut 和 S-Gamut3 的色彩空间比 S-Gamut3.Cine 要大一些，因此可调整范围广。此二者具有相同的空间范围，但是 S-Gamut3 则在色彩再现上有所改善。
+#### S-Gamut3.Cine
+S-Gamut3.Cine 的色彩空间比 DCI-P3 稍微大一些，使用 S-Gamut3.Cine 和 S-Log3，结合 S-Log3 其灰阶近似胶片负片扫描的特点，则能够使拍摄的视频更容易处理，然后在数字影院放映机等设备上播放。 
+
 ## LUT
 
 LUT（Look Up Table），颜色查找表，用于将一组 R、G、B 数据转换为另一组 R、G、B 数据。这种对应关系可以被保存成文件，目前一般采用 .cube 为后缀的 3D LUT。由于 $256^3\times 3=50,331,648$ 字节（约50MB）这仅仅是 8bit LUT，因此将每个 RGB 值的对应关系均写入 LUT 是不经济的。我们一般将 256 档的 RGB 值量化至为 17 档（或33、65，精度更高），后保存，其他数值通过插值计算。  
