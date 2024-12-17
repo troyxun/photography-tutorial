@@ -7,6 +7,7 @@ nav:
     - 认识相机: camera.md
     - 了解对焦: focus.md
     - 了解曝光: exposure.md
+    - 了解 ISO: iso.md
     - 了解色彩: color-science.md
     - 了解声音: sound.md
     - 影像稳定: stabilization.md
@@ -18,7 +19,7 @@ repo_url: https://github.com/troyxun/photography-tutorial
 repo_name: TSStudio/photography-tutorial
 site_description:
 site_author: Sam Tong, Troy Xun
-copyright: Copyright © 2024 Sam Tong & Troy Xun with ❤️
+copyright: Copyright © 2024 - 2025 Sam Tong & Troy Xun with ❤️
 
 markdown_extensions:
     - pymdownx.arithmatex:
