@@ -2,7 +2,7 @@ site_name: 摄影摄像入门教程
 nav:
     - Getting Started: getting-started.md
     - 关于本项目: about.md
-    - 如何参与: about.md
+    - 如何参与: contribute.md
     - 认识镜头: lens.md
     - 认识相机: camera.md
     - 了解对焦: focus.md
@@ -13,7 +13,8 @@ nav:
     - 影像稳定: stabilization.md
     - 视频编码: encoding.md
     - 图像压缩与 RAW: raw.md
-    - 致谢: about.md
+    - 致谢: reference.md
+
 theme: material
 repo_url: https://github.com/troyxun/photography-tutorial
 repo_name: TSStudio/photography-tutorial
