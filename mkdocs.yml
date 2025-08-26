@@ -4,10 +4,11 @@ nav:
         - 快速开始: index.md
         - 关于本项目: about.md
     - 前置知识篇:
-        - 了解光学: optics.md
+        - “像”: image.md
     - 成像篇:
         - 认识镜头: lens.md
         - 了解对焦: focus.md
+        - A滤镜: A_filter.md
     - 记录篇:
         - 认识相机: camera.md
         - 了解曝光: exposure.md
@@ -25,17 +26,21 @@ repo_url: https://github.com/troyxun/photography-tutorial
 repo_name: TSStudio/photography-tutorial
 site_description:
 site_author: Sam Tong, Troy Xun
-copyright: Copyright © 2024 - 2025 Sam Tong & Troy Xun with ❤️
+copyright: Copyright © 2024 - 2025 Sam Tong & Troy Xun
 
 markdown_extensions:
     - pymdownx.arithmatex:
           generic: true
+          tex_inline_wrap: ["$", "$"]
+          tex_block_wrap: ["$$", "$$"]
     - attr_list
     - md_in_html
 
 extra_javascript:
-    - javascripts/mathjax.js
-    - https://polyfill.io/v3/polyfill.min.js?features=es6
-    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    - javascripts/katex.js
+    - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js
+
+extra_css:
+    - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css
 plugins:
     - glightbox
