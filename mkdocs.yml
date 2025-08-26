@@ -1,19 +1,24 @@
 site_name: 摄影摄像入门教程
 nav:
-    - Getting Started: getting-started.md
-    - 关于本项目: about.md
-    - 如何参与: contribute.md
-    - 认识镜头: lens.md
-    - 认识相机: camera.md
-    - 了解对焦: focus.md
-    - 了解曝光: exposure.md
-    - 了解 ISO: iso.md
-    - 了解色彩: color-science.md
-    - 了解声音: sound.md
-    - 影像稳定: stabilization.md
-    - 视频编码: encoding.md
-    - 图像压缩与 RAW: raw.md
-    - 致谢: reference.md
+    - 序言与介绍:
+        - 快速开始: index.md
+        - 关于本项目: about.md
+    - 前置知识篇:
+        - 了解光学: optics.md
+    - 成像篇:
+        - 认识镜头: lens.md
+        - 了解对焦: focus.md
+    - 记录篇:
+        - 认识相机: camera.md
+        - 了解曝光: exposure.md
+        - 了解 ISO: iso.md
+    - 图像处理篇:
+        - 了解色彩: color-science.md
+        - 视频编码: encoding.md
+        - 图像压缩与 RAW: raw.md
+    - 杂项:
+        - 了解声音: sound.md
+        - 影像稳定: stabilization.md
 
 theme: material
 repo_url: https://github.com/troyxun/photography-tutorial
