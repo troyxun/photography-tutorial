@@ -21,7 +21,7 @@ $$
 
 ## 感光度（ISO）
 
-请移步「[认识相机](camera.md)」 或 [了解 ISO](iso.md)」。
+请移步「[认识相机](camera.md)」 或 「[了解 ISO](iso.md)」。
 
 ## EI
 

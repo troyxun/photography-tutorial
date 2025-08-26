@@ -10,9 +10,10 @@ nav:
         - 了解对焦: focus.md
         - A滤镜: A_filter.md
     - 记录篇:
-        - 认识相机: camera.md
-        - 了解曝光: exposure.md
         - 了解 ISO: iso.md
+        - 认识数码相机: camera.md
+        - 认识胶片: film.md
+        - 了解曝光: exposure.md
     - 图像处理篇:
         - 了解色彩: color-science.md
         - 视频编码: encoding.md
