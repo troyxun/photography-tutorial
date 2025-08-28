@@ -8,7 +8,7 @@ nav:
     - 成像篇:
         - 认识镜头: lens.md
         - 了解对焦: focus.md
-        - A滤镜: A_filter.md
+        - "*滤镜": A_filter.md
     - 记录篇:
         - 了解 ISO: iso.md
         - 认识数码相机: camera.md
