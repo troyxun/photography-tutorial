@@ -31,7 +31,7 @@ $$
 
 ### 工频防闪烁
 
-![工频防闪烁原理](../images/lumi_wave.svg)
+![工频防闪烁原理](images/lumi_wave.svg)
 
 工频防闪烁有两种做法：
 
