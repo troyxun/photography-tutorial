@@ -180,3 +180,6 @@ $$
 $$
 SNR_{\max} \approx SNR_{shot\ noise} = \frac{FWC}{\sqrt{FWC}} = \sqrt{FWC} = 20\log_{10}\sqrt{FWC}
 $$
+
+[^1]: Photography - Colour negative films for still photography - Determination of ISO speed: ISO 5800:1987[S/OL]. 1987.
+[^2]: 中华人民共和国国家质量监督检验检疫总局，中国国家标准化管理委员会. 摄影 静止摄影用彩色负性胶片 ISO感光度的测定:GB/T 2924-2008[S]. 北京:中国标准出版社, 2008.
