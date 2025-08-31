@@ -36,6 +36,9 @@ markdown_extensions:
           tex_block_wrap: ["$$", "$$"]
     - attr_list
     - md_in_html
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
 
 extra_javascript:
     - javascripts/katex.js
